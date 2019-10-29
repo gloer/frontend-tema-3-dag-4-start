@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+.grid-item {
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
